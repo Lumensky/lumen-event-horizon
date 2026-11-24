@@ -1,0 +1,8 @@
+build/
+ui/node_modules/
+ui/dist/
+ui/dist-plugin/
+tests/ui/node_modules/
+ui-report/
+dsp-report/
+pluginval-logs/
